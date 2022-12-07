@@ -1,4 +1,4 @@
-code_postal,pays,capacité,espace_enfants,borne_service_rapide,parking,acces_handicap
+code_postal,pays,capacité,espace_enfant,service_rapide,parking,accessibilite
 24-13,United States,247,No,No,No,Yes
 G27 7HT,South Africa,96,Yes,Yes,No,No
 7443 YD,Colombia,68,Yes,No,Yes,Yes

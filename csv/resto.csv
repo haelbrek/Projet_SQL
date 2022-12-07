@@ -1,0 +1,251 @@
+,code_postal,pays,capacité,espace_enfant,service_rapide,parking,accessibilite
+0,24-13,United States,247,No,No,No,Yes
+1,G27 7HT,South Africa,96,Yes,Yes,No,No
+2,7443 YD,Colombia,68,Yes,No,Yes,Yes
+3,93956-418,Vietnam,181,No,No,Yes,Yes
+4,977145,Italy,75,No,No,No,No
+5,29552,Ireland,134,Yes,Yes,Yes,Yes
+6,45331,China,82,Yes,No,Yes,No
+7,18345,France,128,Yes,No,No,Yes
+8,85-710,Peru,187,Yes,Yes,Yes,Yes
+9,8876 JU,New Zealand,149,No,Yes,No,Yes
+10,164486,Spain,210,No,Yes,Yes,Yes
+11,547166,Brazil,207,Yes,No,No,No
+12,327537,Peru,62,Yes,No,Yes,No
+13,3348,Australia,62,Yes,No,Yes,No
+14,9318,Austria,96,No,Yes,Yes,No
+15,762070,Peru,241,No,Yes,Yes,Yes
+16,53782,Pakistan,157,Yes,No,No,No
+17,0381,United States,107,No,No,Yes,Yes
+18,244443,Poland,99,No,Yes,No,Yes
+19,WV2H 3LD,Canada,88,Yes,No,No,No
+20,153293,South Africa,217,Yes,Yes,No,Yes
+21,3004,Costa Rica,133,No,No,No,Yes
+22,791811,Mexico,100,Yes,Yes,Yes,Yes
+23,253842,Philippines,57,Yes,No,No,Yes
+24,2518,Poland,170,No,Yes,No,Yes
+25,95865,Poland,247,No,No,No,Yes
+26,37815,Peru,241,Yes,Yes,Yes,Yes
+27,362232,Indonesia,240,No,No,No,Yes
+28,656964,Austria,52,No,No,No,No
+29,54-74,Canada,150,No,No,No,No
+30,8235,Mexico,187,Yes,No,Yes,Yes
+31,20284,Ukraine,231,No,Yes,Yes,No
+32,1782,Vietnam,115,No,No,No,Yes
+33,171674,Spain,152,No,Yes,No,No
+34,788735,Turkey,119,Yes,Yes,No,Yes
+35,L17 8DW,Spain,136,No,No,Yes,Yes
+36,25655,Singapore,201,Yes,Yes,Yes,No
+37,73873,Nigeria,139,Yes,Yes,Yes,Yes
+38,11111,Canada,220,No,No,Yes,Yes
+39,48617,Chile,139,Yes,No,No,Yes
+40,22751,Poland,109,Yes,Yes,No,No
+41,50211,Norway,245,Yes,Yes,Yes,No
+42,YR9V 4GY,Brazil,66,Yes,Yes,Yes,Yes
+43,14958,South Korea,192,Yes,Yes,No,No
+44,1943 QJ,Nigeria,155,Yes,No,No,No
+45,52104,New Zealand,142,No,No,No,No
+46,65814-592,Italy,126,No,Yes,Yes,Yes
+47,25874,New Zealand,140,No,No,No,No
+48,8323,Philippines,218,Yes,No,Yes,No
+49,58352,Costa Rica,242,Yes,Yes,No,Yes
+50,06-728,Poland,174,No,Yes,Yes,Yes
+51,6162-4288,France,98,No,Yes,Yes,Yes
+52,741637,France,197,No,No,Yes,No
+53,221896,Colombia,118,No,No,No,No
+54,138261,France,211,No,Yes,Yes,Yes
+55,42074,United Kingdom,237,No,No,No,No
+56,41-681,Vietnam,52,No,No,Yes,No
+57,569842,Indonesia,107,Yes,Yes,No,No
+58,27451,Canada,172,Yes,Yes,Yes,No
+59,37348978,Spain,185,No,No,No,No
+60,236181,Vietnam,143,Yes,No,No,Yes
+61,8584,Australia,164,Yes,Yes,No,No
+62,452654,Netherlands,244,No,No,No,Yes
+63,604113,Norway,119,No,No,No,No
+64,3685 KV,United States,151,No,Yes,Yes,No
+65,76863,Italy,60,Yes,No,Yes,Yes
+66,851789,China,94,Yes,Yes,No,Yes
+67,269276,Poland,55,No,No,No,No
+68,72670,Colombia,95,No,No,No,Yes
+69,8287,Vietnam,168,Yes,No,No,Yes
+70,4430,Brazil,166,No,Yes,Yes,No
+71,L3 4RS,Peru,239,No,Yes,Yes,Yes
+72,2296,Norway,54,Yes,Yes,No,No
+73,2758,China,91,No,No,No,Yes
+74,2246-7768,Italy,156,Yes,Yes,No,Yes
+75,6144,Costa Rica,135,No,No,Yes,No
+76,13275,Vietnam,175,Yes,No,No,Yes
+77,19424,New Zealand,150,Yes,No,Yes,Yes
+78,7221,Ireland,151,Yes,Yes,No,No
+79,425464,India,59,No,Yes,Yes,No
+80,71277,Belgium,123,Yes,No,Yes,Yes
+81,732429,Vietnam,66,Yes,Yes,Yes,Yes
+82,89-018,Pakistan,152,No,No,No,No
+83,3344,Ireland,145,Yes,No,Yes,No
+84,20609,Chile,246,Yes,No,No,Yes
+85,744636,Costa Rica,203,Yes,No,Yes,Yes
+86,4350,South Africa,119,No,No,No,No
+87,66835,Ireland,192,No,Yes,Yes,Yes
+88,d1R 4E2,Spain,229,Yes,No,No,No
+89,5246,United Kingdom,222,Yes,No,Yes,No
+90,4628,Australia,133,No,Yes,Yes,No
+91,18037,Belgium,128,No,Yes,No,No
+92,0983 VX,Italy,188,Yes,Yes,No,No
+93,97-88,Brazil,181,No,Yes,Yes,Yes
+94,065836,France,82,Yes,Yes,Yes,Yes
+95,77-785,Poland,82,Yes,Yes,Yes,Yes
+96,6580 XR,Chile,227,Yes,No,Yes,Yes
+97,30017,Ukraine,117,No,Yes,No,No
+98,488072,Pakistan,189,No,Yes,No,Yes
+99,273233,Pakistan,65,Yes,Yes,Yes,No
+100,3054,Brazil,163,No,Yes,No,No
+101,776532,Netherlands,109,No,Yes,Yes,No
+102,427450,United Kingdom,248,Yes,Yes,Yes,Yes
+103,06-887,China,197,No,Yes,No,Yes
+104,33676,Spain,76,No,No,No,Yes
+105,25753,Nigeria,177,Yes,No,Yes,No
+106,867306,China,85,Yes,No,No,Yes
+107,01779,Ukraine,185,Yes,No,No,No
+108,85610-271,Vietnam,61,No,No,Yes,No
+109,Z4W 2M7,Spain,247,No,Yes,Yes,Yes
+110,462769,Vietnam,220,No,No,Yes,Yes
+111,38-056,South Korea,76,Yes,Yes,Yes,No
+112,7972 KG,Italy,123,No,Yes,Yes,No
+113,55119,Spain,74,Yes,No,No,No
+114,8341-1818,United Kingdom,174,No,No,Yes,No
+115,5459,Chile,83,No,Yes,Yes,Yes
+116,63177,United States,216,Yes,No,No,No
+117,59-971,United States,51,No,No,Yes,No
+118,12737,Nigeria,115,Yes,Yes,Yes,Yes
+119,551150,Vietnam,238,Yes,Yes,Yes,Yes
+120,1522,Austria,85,No,Yes,No,No
+121,40617,Germany,132,No,No,Yes,No
+122,7072,Belgium,74,No,No,No,No
+123,12508,Spain,73,No,No,Yes,Yes
+124,24-028,Australia,238,No,No,No,No
+125,68404,United Kingdom,54,No,No,Yes,No
+126,9824-6784,Mexico,185,Yes,Yes,No,Yes
+127,282669,Pakistan,195,No,Yes,Yes,No
+128,74180,Netherlands,80,Yes,No,Yes,No
+129,143835,Australia,118,Yes,No,No,No
+130,387876,Philippines,75,Yes,Yes,Yes,Yes
+131,0885,Norway,146,No,No,Yes,No
+132,11626,Chile,184,No,Yes,Yes,No
+133,12727-178,Austria,94,No,Yes,Yes,Yes
+134,7323,France,213,Yes,No,No,Yes
+135,65424-673,Vietnam,140,No,Yes,No,Yes
+136,5799 NY,Norway,224,No,Yes,Yes,No
+137,Y8J 3E0,France,133,Yes,No,Yes,No
+138,51274,Norway,247,Yes,No,No,Yes
+139,42763,Brazil,238,Yes,Yes,No,No
+140,02653,Pakistan,234,Yes,Yes,No,No
+141,17914,Belgium,114,No,No,No,No
+142,31-566,Belgium,166,Yes,No,No,No
+143,82868,Chile,235,Yes,Yes,Yes,Yes
+144,I7A 6X7,China,86,No,No,No,No
+145,922222,India,129,Yes,Yes,Yes,No
+146,S8J 5V6,Australia,242,Yes,No,Yes,Yes
+147,4434,South Africa,156,Yes,Yes,No,Yes
+148,875507,India,217,Yes,No,Yes,Yes
+149,54167,Pakistan,64,No,No,Yes,No
+150,6238-0297,South Africa,110,No,No,Yes,No
+151,52W 8A3,Ukraine,88,Yes,Yes,No,No
+152,85524,Germany,240,No,No,No,No
+153,605151,Costa Rica,229,Yes,No,Yes,Yes
+154,1617,Colombia,230,Yes,Yes,No,No
+155,11827,Italy,174,Yes,Yes,No,Yes
+156,62428,Philippines,201,No,No,No,No
+157,47803,Peru,64,No,Yes,No,Yes
+158,540245,Ukraine,234,No,No,No,Yes
+159,7819,Indonesia,165,No,Yes,Yes,No
+160,8481 KH,New Zealand,84,Yes,Yes,No,No
+161,60708,Brazil,216,No,Yes,No,Yes
+162,21071,Peru,116,Yes,Yes,Yes,Yes
+163,12177,Belgium,121,Yes,Yes,Yes,No
+164,10114,Austria,250,Yes,Yes,Yes,No
+165,26320,Nigeria,178,Yes,Yes,Yes,Yes
+166,245267,Ireland,222,Yes,No,Yes,No
+167,6479,South Korea,204,Yes,Yes,Yes,No
+168,3970,India,179,Yes,Yes,Yes,No
+169,87312,Russian Federation,84,No,No,Yes,No
+170,1165 PU,Belgium,99,Yes,Yes,Yes,No
+171,34486,India,114,No,Yes,No,Yes
+172,3373-5558,Poland,116,No,No,Yes,Yes
+173,93870,Vietnam,103,Yes,No,No,Yes
+174,54255-33164,France,173,Yes,No,Yes,No
+175,874143,Germany,219,No,No,Yes,No
+176,536434,New Zealand,78,No,No,Yes,No
+177,43042,Philippines,213,No,No,No,Yes
+178,377428,Italy,244,Yes,No,Yes,Yes
+179,817512,Vietnam,185,Yes,Yes,No,Yes
+180,621964,China,133,No,Yes,No,No
+181,7572,Philippines,55,No,Yes,No,No
+182,30406,Singapore,81,No,Yes,Yes,No
+183,70166-53314,Germany,226,Yes,Yes,No,No
+184,2228,India,108,Yes,Yes,Yes,Yes
+185,265237,Russian Federation,116,Yes,Yes,No,No
+186,IY6C 1ZY,Turkey,214,No,No,Yes,No
+187,54961,Netherlands,208,No,No,No,Yes
+188,0557,Ireland,86,Yes,No,Yes,Yes
+189,38978,China,174,Yes,No,No,No
+190,87406,Ukraine,121,Yes,No,No,No
+191,50114,New Zealand,158,No,No,No,No
+192,6438-3664,Singapore,230,No,No,No,Yes
+193,552771,Norway,118,No,Yes,No,No
+194,431951,China,244,Yes,Yes,No,No
+195,K1V 3IR,India,189,No,Yes,No,Yes
+196,2169,China,166,Yes,No,Yes,No
+197,21821,New Zealand,118,No,No,Yes,No
+198,23628,Spain,50,Yes,No,No,Yes
+199,765583,United Kingdom,242,No,Yes,Yes,No
+200,4120,Russian Federation,236,Yes,No,Yes,Yes
+201,19411,South Korea,174,Yes,No,No,No
+202,733991,France,217,Yes,No,No,Yes
+203,30907,Poland,83,Yes,Yes,No,Yes
+204,741185,Germany,249,Yes,No,Yes,Yes
+205,55204,Turkey,202,No,No,Yes,No
+206,440731,China,72,No,No,No,Yes
+207,96-15,Peru,79,Yes,No,Yes,No
+208,16213,Vietnam,63,Yes,Yes,Yes,No
+209,26625,United Kingdom,90,No,No,Yes,No
+210,180648,Singapore,100,No,Yes,Yes,No
+211,08-175,Norway,99,Yes,Yes,No,No
+212,67081,Chile,198,Yes,No,Yes,No
+213,2883,Turkey,86,No,No,Yes,Yes
+214,2274,South Korea,97,No,Yes,No,No
+215,583125,Ireland,89,Yes,No,No,Yes
+216,66182-047,United Kingdom,244,No,No,No,Yes
+217,81745,Indonesia,108,Yes,No,No,No
+218,16995,Colombia,242,No,Yes,Yes,No
+219,76-184,Singapore,86,Yes,Yes,No,Yes
+220,23012,China,181,Yes,Yes,No,No
+221,3621,Pakistan,54,No,Yes,No,Yes
+222,68846,Russian Federation,221,No,Yes,No,No
+223,52395,Norway,92,No,No,No,Yes
+224,58254,Mexico,77,Yes,Yes,No,Yes
+225,8187-7766,Belgium,248,No,No,No,No
+226,7447,Brazil,148,Yes,No,No,No
+227,812346,Germany,151,Yes,Yes,No,No
+228,20353,China,171,Yes,Yes,Yes,Yes
+229,868106,Pakistan,151,Yes,No,Yes,No
+230,41773,Spain,95,Yes,Yes,No,No
+231,57418,Poland,181,Yes,No,Yes,No
+232,552576,New Zealand,153,No,Yes,No,No
+233,67196-66612,Belgium,104,Yes,Yes,Yes,Yes
+234,7615,Australia,197,No,Yes,No,Yes
+235,6738,Singapore,196,Yes,Yes,Yes,Yes
+236,9918 DE,United States,121,Yes,No,No,No
+237,50263,Philippines,131,Yes,No,Yes,No
+238,17-915,Canada,243,Yes,No,No,Yes
+239,72795,Netherlands,210,No,No,No,Yes
+240,12122,Brazil,98,No,Yes,No,No
+241,886836,Costa Rica,68,No,No,No,Yes
+242,3725,Vietnam,105,No,No,Yes,Yes
+243,8546,Norway,86,Yes,No,No,Yes
+244,257126,Norway,120,Yes,Yes,No,No
+245,183227,Turkey,126,No,Yes,Yes,No
+246,8563,Germany,135,Yes,Yes,Yes,Yes
+247,21354,Italy,63,No,No,No,No
+248,4460,Pakistan,135,Yes,No,Yes,Yes
+249,7363,Peru,198,Yes,Yes,Yes,Yes
